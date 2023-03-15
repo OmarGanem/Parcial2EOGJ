@@ -1,0 +1,39 @@
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.AssemblyReference.cache
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.FrmProyecto.resources
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.Properties.Resources.resources
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.GenerateResource.cache
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.CoreCompileInputs.cache
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\Parcial2EOGJ.exe.config
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\Parcial2EOGJ.exe
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\Parcial2EOGJ.pdb
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\EntityFramework.dll
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\EntityFramework.xml
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.CopyComplete
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.exe
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.pdb
+C:\Users\SALA 4\source\repos\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.Migrations.initial.resources
+D:\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\Parcial2EOGJ.exe.config
+D:\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\Parcial2EOGJ.exe
+D:\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\Parcial2EOGJ.pdb
+D:\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\EntityFramework.dll
+D:\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\EntityFramework.SqlServer.dll
+D:\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\EntityFramework.xml
+D:\Parcial2EOGJ\Parcial2EOGJ\bin\Debug\EntityFramework.SqlServer.xml
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.AssemblyReference.cache
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.SuggestedBindingRedirects.cache
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.FrmCountry.resources
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.FrmContact.resources
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.FrmRol.resources
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.FrmService.resources
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.FrmUser.resources
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.Migrations.initial.resources
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.Properties.Resources.resources
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.GenerateResource.cache
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.CoreCompileInputs.cache
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.csproj.CopyComplete
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.exe
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.pdb
+D:\Parcial2EOGJ\Parcial2EOGJ\obj\Debug\Parcial2EOGJ.Migrations.initial1.resources
